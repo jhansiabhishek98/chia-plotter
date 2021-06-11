@@ -1,5 +1,5 @@
 # chia-plotter (pipelined multi-threaded)
-
+Hii This is abhishek Jain
 This is a new implementation of a chia plotter which is designed as a processing pipeline,
 similar to how GPUs work, only the "cores" are normal software CPU threads.
 
